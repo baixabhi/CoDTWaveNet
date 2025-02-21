@@ -29,8 +29,8 @@ This project focuses on chest radiology analysis using a deep learning model. Th
 ## How to Run
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/chest-radiology.git
-cd chest-radiology
+git clone https://github.com/baixabhi/CoDTWaveNet.git
+cd CoDTWaveNet
 
 # Install dependencies
 pip install -r requirements.txt
